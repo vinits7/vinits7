@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinit</h1>
+<h1 align="center">Hi 👋, I'm Vinit Shah</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 
